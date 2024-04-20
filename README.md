@@ -2,7 +2,7 @@
 👨🏾‍💻Software Engineer<br/>
 🔭 I’m currently working on RelevantZ<br/>
 🌱 I’m currently learning Full Stack Development<br/>
-📫 How to reach me https://www.linkedin.com/in/kathirvelsiva/<br/>
+📫 You can reach me on LinkedIn - [Kathirvelsiva](https://www.linkedin.com/in/kathirvelsiva/)<br/>
 <!--
 **KATHIRVELSIVA/KATHIRVELSIVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
