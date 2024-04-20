@@ -1,9 +1,10 @@
-### Hi, I'm Kathirvel!
+# Hi, I'm Kathirvel!
 👨🏾‍💻Software Engineer<br/>
 🔭 I’m currently working on RelevantZ<br/>
 🌱 I’m currently learning Full Stack Development<br/>
 📫 You can reach me on LinkedIn - [Kathirvelsiva](https://www.linkedin.com/in/kathirvelsiva/)<br/>
-
+<br/>
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathirvelsiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 💻 Tech Stack
 ## Front End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,3 +38,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<br/>
+![Kathirvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirvelsiva&show_icons=true&theme=transparent)
