@@ -1,10 +1,12 @@
 # Hi, I'm Kathirvel!
-👨🏾‍💻Software Engineer<br/>
-🔭 I’m currently working on RelevantZ<br/>
+👨🏾‍💻Junior Software Engineer<br/>
+🔭 I’m currently working on [RelevantZ](https://relevantz.com/)<br/>
 🌱 I’m currently learning Full Stack Development<br/>
 📫 You can reach me on LinkedIn - [Kathirvelsiva](https://www.linkedin.com/in/kathirvelsiva/)<br/>
 <br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kathirvelsiva?theme=unicorn&font=Fira%20Code&ext=heatmap)
+<br/>
+![Kathirvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirvelsiva&show_icons=true&theme=transparent)
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathirvelsiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 💻 Tech Stack
 ## Front End
@@ -39,5 +41,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-<br/>
-![Kathirvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirvelsiva&show_icons=true&theme=transparent)
