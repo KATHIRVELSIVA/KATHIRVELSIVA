@@ -4,6 +4,7 @@
 🌱 I’m currently learning Full Stack Development<br/>
 📫 You can reach me on LinkedIn - [Kathirvelsiva](https://www.linkedin.com/in/kathirvelsiva/)<br/>
 <br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/kathirvelsiva?theme=unicorn&font=Fira%20Code&ext=heatmap)
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathirvelsiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 💻 Tech Stack
 ## Front End
