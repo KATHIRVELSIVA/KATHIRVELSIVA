@@ -1,59 +1,45 @@
-# 👋 Hi there! I'm Kathirvel
-I’m a passionate 👨🏾‍💻Junior Software Engineer with a background in computer science. I've honed my skills in full-stack development, specializing in .NET, Python, and React. My journey in tech began with a keen interest in problem-solving and creating innovative solutions.
+# 👋 Hi, I'm Kathirvel
 
-🔭 I’m currently working on [Relevantz](https://relevantz.com/)<br/>
+I’m a **Junior Software Engineer** specializing in full-stack engineering across the .NET ecosystem and React. I design scalable backend architectures, build responsive user interfaces, and implement clean code practices to solve complex real-world problems.
 
-🚀 Skills
+---
 
-Languages
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=cs,javascript,python,kotlin" />
+### 🏔️ Executive Summary
+* 💼 **Current Focus:** Engineering high-performance Web APIs and modular full-stack solutions at [Relevantz](https://relevantz.com/).
+* ⚡ **Core Competencies:** Domain-Driven Design, Microservices, and AI-driven development workflows.
+* 🌱 **Continuous Learning:** Actively engaged in technical developer communities and evolving cloud architecture.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend & Core** | <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs" alt="Backend" /> |
+| **Frontend UI** | <img src="https://skillicons.dev/icons?i=javascript,react,kotlin" alt="Frontend" /> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,azure" alt="Data and Cloud" /> |
+| **DevOps & Workspace**| <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman" alt="DevOps" /> |
+| **Environments** | <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,windows,linux" alt="Environments" /> |
+
+---
+
+### 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kathirvelsiva&show_icons=true&theme=buefy" alt="Kathirvel's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kathirvelsiva&layout=compact&theme=buefy" alt="Used Languages" width="49%" />
 </p>
 
-Frameworks
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kathirvelsiva?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="99%" />
 </p>
 
-Database
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql," />
-</p>
+---
 
-Tools
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman," />
-</p>
-
-Cloud
+### 🌐 Digital Footprint
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=azure" />
+  <a href="https://www.linkedin.com/in/kathirvelsiva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-👋%20Let's%20Connect-D0C9BC?style=for-the-badge&logo=linkedin&logoColor=1A1A1A" alt="LinkedIn" />
+  </a>
 </p>
-
-IDE & Editors
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio" />
-</p>
-
-Operating Systems
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
-
-<br/>
-
-![Kathirvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathirvelsiva&show_icons=true&theme=transparent)
-<br/>
-
-
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathirvelsiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kathirvelsiva?theme=unicorn&font=Fira%20Code&ext=heatmap)
-
-
-<a align="left" href="https://www.linkedin.com/in/kathirvelsiva/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
