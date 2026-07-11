@@ -39,6 +39,9 @@ I’m a **Junior Software Engineer** specializing in full-stack engineering acro
 ### 🌐 Digital Footprint
 
 <p align="left">
+  <a href="https://kathirvelsiva.github.io/skv-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-✨%20Live%20Website-DFDCD4?style=for-the-badge&logo=react&logoColor=1A1A1A" alt="Portfolio Badge" />
+  </a>
   <a href="https://www.linkedin.com/in/kathirvelsiva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-👋%20Let's%20Connect-D0C9BC?style=for-the-badge&logo=linkedin&logoColor=1A1A1A" alt="LinkedIn" />
   </a>
